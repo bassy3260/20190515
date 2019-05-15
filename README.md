@@ -3,7 +3,7 @@
 ## 설명
 
 
-[네이버]http://naver.com
+[네이버](https://naver.com)
 
 설명글을 작성한다.
 
