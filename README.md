@@ -4,6 +4,12 @@
 
 설명글을 작성한다.
 
+```python
+def fun():
+ print "hello"
+ 
+def_main():
+
 1. 숫자 1단계 아이템
  1.1. 이것은 어떤가
  - 이것은?
