@@ -4,13 +4,16 @@
 
 설명글을 작성한다.
 
+==============
+
+C언어 코드블럭
 ```C
 void f ()
 {
 printf(hello);
 }
 ```
-
+==============
 ```python
 def fun():
  print "hello"
